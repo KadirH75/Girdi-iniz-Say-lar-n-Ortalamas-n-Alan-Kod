@@ -12,4 +12,5 @@ for (int i = 0; i < sayi; i++) {
 	
 }
 cout << "girilen sayıların ortalaması : " << toplam/ sayi;
+return 0;
 }
